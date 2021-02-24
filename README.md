@@ -1,5 +1,9 @@
 # FormulariosApp
 
+- npm install
+- "start": "json-server --watch ./db.json --port 3000"
+- ng serve
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
 ## Development server
